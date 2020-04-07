@@ -2,7 +2,7 @@ import React from 'react';
 import {StyleSheet, View, Text} from 'react-native';
 
 
-const FiltersScreen = props => {
+const MealDetail = props => {
 
 
 	return (
@@ -13,7 +13,7 @@ const FiltersScreen = props => {
 }
 
 
-export default FiltersScreen ;
+export default MealDetail ;
 
 
 const styles = StyleSheet.create({
